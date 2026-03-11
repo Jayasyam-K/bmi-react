@@ -1,3 +1,5 @@
+This is a simple project created using React , Vite , and CSS. 
+This is a BMI Calculator
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
